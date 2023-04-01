@@ -20,4 +20,4 @@ Steps to run the code:
 Step 1- Download the dataset from link place in a folder name data
 Step 2- run 1_...  .py
 Step 3- this should save a .h5 file as the model ran
-Step 4- open 2_...   .py and run will give predicted results for the selected cases#� �3�_�B�r�e�a�s�t�_�C�a�n�c�e�r�_�C�N�N�_�D�e�t�e�c�t�i�o�n�
+Step 4- open 2_...   .py and run will give predicted results for the selected cases
